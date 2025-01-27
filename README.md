@@ -1,7 +1,7 @@
 # Scraping Otten Coffee Products by Category: Coffee
 
 ## Description
-This notebook is designed to scrape product data from the Otten Coffee website using Selenium and BeautifulSoup. The data collected includes product names, prices, amount sold, ratings. The obtained data is then processed and saved in CSV format for further analysis or storage in a database.
+This notebook is designed to scrape product data from the Otten Coffee website using Selenium and BeautifulSoup. The data collected includes product names, prices, amount sold, ratings, images, and link. The obtained data is then processed and saved in CSV format for further analysis or storage in a database.
 
 ## Notebook Structure
 1. **Import Libraries**: Load all the necessary libraries for scraping and data processing.
